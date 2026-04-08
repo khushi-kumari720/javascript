@@ -1,6 +1,6 @@
 console.log("Hello students again!!")
 
-// let a=5;
+// let a=6;
 // const b=78;
 // var c=34;
 
@@ -398,6 +398,10 @@ const p=new Promise((res,rej)=>{
         if(done){
             res("success")
         }else{
+            rej("failed to fetch data from the server")
+        }
+    },3000)
+      }else{
             rej("failed to fetch data from the server")
         }
     },3000)
