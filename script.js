@@ -3,8 +3,9 @@ console.log("Hello students again!!")
 // let a=6;
 // const b=78;
 // var c=34;
+//let d =5;
 
-// console.log(a, b, c)
+// console.log(a, b, c,d)
 
 // let a=56;
 // a=878
