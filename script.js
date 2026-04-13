@@ -354,6 +354,23 @@ button.addEventListener('click',()=>{
     studentName.value=" "
 })
 
+button.addEventListener('click',()=>{
+    const li=document.createElement('li')
+    const deleteButton=document.createElement('button')
+
+    li.innerText=studentName.value
+    deleteButton.innerText="delete"
+
+    deleteButton.addEventListener('click',()=>{
+        //li.remove()
+        list.removeChild(li)
+    })
+    li.appendChild(deleteButton)
+    list.appendChild(li)
+    
+    studentName.value=" "
+})
+
 console.log("startinghomework..");
 
 setTimeout(() =>{
