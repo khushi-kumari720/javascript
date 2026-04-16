@@ -144,7 +144,12 @@ console.log(arr[2])*/
 //     default:
 //         console.log("Fail")
 // }
-
+// console.log(2) //2*1
+// console.log(4) //2*2
+// console.log(6) //2*3
+// console.log(8) 
+// console.log(10)
+// console.log("..")
 
 // console.log(2) //2*1
 // console.log(4) //2*2
