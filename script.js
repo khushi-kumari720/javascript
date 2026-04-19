@@ -3,7 +3,7 @@ console.log("Hello students again!!")
 // let a=6;
 // const b=78;
 // var c=34;
-//let d =5;
+//let d=56;
 
 // console.log(a, b, c,d)
 
