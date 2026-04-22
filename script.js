@@ -108,7 +108,9 @@ console.log(arr[2])*/
 
 // console.log(num%10)
 // console.log(num!==3434)
-// 
+//  console.log(num%10)
+// console.log(num!==3434)
+
 
 // console.log(4<5)
 
