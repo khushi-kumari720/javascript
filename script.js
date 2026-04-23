@@ -24,11 +24,11 @@ console.log("Hello students again!!")
 // console.log(a, b, c, d, e)
 
 
-// {  //for loop , if block 
-//     var g=567   //global scope 
-//     let f=243  //block scoped variable
-//     const a=3454  //block scope
-// }
+ {  //for loop , if block 
+     var g=567   //global scope 
+     let f=243  //block scoped variable
+     const a=3454  //block scope
+ }
 // console.log(g)
 // // console.log(f)
 // // console.log(i)
