@@ -7,6 +7,8 @@ console.log("Hello students again!!")
 
 // console.log(a, b, c,d)
 
+// console.log(a, b, c,d)
+
 // let a=56;
 // a=878
 // let c;
