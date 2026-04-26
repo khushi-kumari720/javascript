@@ -73,6 +73,7 @@ console.log("Hello students again!!")
 // console.log(Math.ceil(Math.random()*6))
 
 // let name="Alex"
+//let name = "khushi"
 // let age=34
 // let salary=56745443
 
