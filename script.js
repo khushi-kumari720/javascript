@@ -258,6 +258,7 @@ console.log(arr[2])*/
 // }
 
 // console.log(a)
+//console.log(b)
 
 
 // function outer(){
