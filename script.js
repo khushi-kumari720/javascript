@@ -45,6 +45,8 @@ console.log("Hello students again!!")
 
 // let sample=354
 // let sample=34545
+// let sample=354
+// let sample=34545
 
 // var sample2=345
 // var sample2=3454
