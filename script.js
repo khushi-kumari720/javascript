@@ -70,7 +70,10 @@ console.log("Hello students again!!")
 // console.log(Math.floor(num))
 // console.log(Math.ceil(num))
 // console.log(Math.round(num))
+
 // console.log(parseFloat(num))
+
+
 // console.log(Math.max(1,2,3,5,67,3,-13,45))\
 // console.log(Math.ceil(Math.random()*6))
 
