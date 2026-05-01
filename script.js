@@ -1,6 +1,7 @@
 console.log("Hello students again!!")
 
 // let a=6;
+//let d=56;
 // const b=78;
 // var c=34;
 //let d=56;
