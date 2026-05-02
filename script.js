@@ -14,6 +14,7 @@ console.log("Hello students again!!")
 // a=878
 // let c;
 // c=678
+//d=200
 
 // const b=34;
 // // b=345 //cannot be changed
